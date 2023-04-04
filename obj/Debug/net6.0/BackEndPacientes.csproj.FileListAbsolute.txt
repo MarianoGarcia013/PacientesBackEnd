@@ -1,0 +1,12 @@
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\BackEndPacientes\bin\Debug\net6.0\BackEndPacientes.deps.json
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\BackEndPacientes\bin\Debug\net6.0\BackEndPacientes.dll
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\BackEndPacientes\bin\Debug\net6.0\BackEndPacientes.pdb
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\BackEndPacientes\obj\Debug\net6.0\BackEndPacientes.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\BackEndPacientes\obj\Debug\net6.0\BackEndPacientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\BackEndPacientes\obj\Debug\net6.0\BackEndPacientes.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\BackEndPacientes\obj\Debug\net6.0\BackEndPacientes.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\BackEndPacientes\obj\Debug\net6.0\BackEndPacientes.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\BackEndPacientes\obj\Debug\net6.0\BackEndPacientes.dll
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\BackEndPacientes\obj\Debug\net6.0\refint\BackEndPacientes.dll
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\BackEndPacientes\obj\Debug\net6.0\BackEndPacientes.pdb
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\BackEndPacientes\obj\Debug\net6.0\ref\BackEndPacientes.dll
